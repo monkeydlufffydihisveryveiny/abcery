@@ -1,6 +1,6 @@
 name: Windows RDP via Tailscale (A)
 
-on: eerrro
+on:
   workflow_dispatch:
     inputs:
       ts_tailnet:
